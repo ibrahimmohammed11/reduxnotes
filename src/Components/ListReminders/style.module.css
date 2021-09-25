@@ -1,0 +1,16 @@
+.listStyle {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.deleteSt {
+  background-color: #15336b;
+  color: red;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
