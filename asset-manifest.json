@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reduxnotes/static/css/main.0173de59.chunk.css",
+    "main.js": "/reduxnotes/static/js/main.070226d3.chunk.js",
+    "main.js.map": "/reduxnotes/static/js/main.070226d3.chunk.js.map",
+    "runtime-main.js": "/reduxnotes/static/js/runtime-main.f894c7b2.js",
+    "runtime-main.js.map": "/reduxnotes/static/js/runtime-main.f894c7b2.js.map",
+    "static/css/2.680777e7.chunk.css": "/reduxnotes/static/css/2.680777e7.chunk.css",
+    "static/js/2.44049110.chunk.js": "/reduxnotes/static/js/2.44049110.chunk.js",
+    "static/js/2.44049110.chunk.js.map": "/reduxnotes/static/js/2.44049110.chunk.js.map",
+    "static/js/3.c8e22364.chunk.js": "/reduxnotes/static/js/3.c8e22364.chunk.js",
+    "static/js/3.c8e22364.chunk.js.map": "/reduxnotes/static/js/3.c8e22364.chunk.js.map",
+    "index.html": "/reduxnotes/index.html",
+    "static/css/2.680777e7.chunk.css.map": "/reduxnotes/static/css/2.680777e7.chunk.css.map",
+    "static/css/main.0173de59.chunk.css.map": "/reduxnotes/static/css/main.0173de59.chunk.css.map",
+    "static/js/2.44049110.chunk.js.LICENSE.txt": "/reduxnotes/static/js/2.44049110.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/reduxnotes/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/note-taking.657f6e03.png": "/reduxnotes/static/media/note-taking.657f6e03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f894c7b2.js",
+    "static/css/2.680777e7.chunk.css",
+    "static/js/2.44049110.chunk.js",
+    "static/css/main.0173de59.chunk.css",
+    "static/js/main.070226d3.chunk.js"
+  ]
+}
